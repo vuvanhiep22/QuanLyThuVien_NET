@@ -1,0 +1,10 @@
+C:\Users\HP PC\source\repos\baitapcanhan206\bin\Debug\baitapcanhan206.exe.config
+C:\Users\HP PC\source\repos\baitapcanhan206\bin\Debug\baitapcanhan206.exe
+C:\Users\HP PC\source\repos\baitapcanhan206\bin\Debug\baitapcanhan206.pdb
+C:\Users\HP PC\source\repos\baitapcanhan206\obj\Debug\baitapcanhan206.csproj.AssemblyReference.cache
+C:\Users\HP PC\source\repos\baitapcanhan206\obj\Debug\baitapcanhan206.Form1.resources
+C:\Users\HP PC\source\repos\baitapcanhan206\obj\Debug\baitapcanhan206.Properties.Resources.resources
+C:\Users\HP PC\source\repos\baitapcanhan206\obj\Debug\baitapcanhan206.csproj.GenerateResource.cache
+C:\Users\HP PC\source\repos\baitapcanhan206\obj\Debug\baitapcanhan206.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\source\repos\baitapcanhan206\obj\Debug\baitapcanhan206.exe
+C:\Users\HP PC\source\repos\baitapcanhan206\obj\Debug\baitapcanhan206.pdb
